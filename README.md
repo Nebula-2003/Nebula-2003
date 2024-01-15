@@ -12,7 +12,9 @@
 
 -   😎 Languages I know **Javascript**
 
--   🌠 Want to learn **Golang, Typescript, NestJs**
+-   ⚒️ Currently Fiddling with **NestJs**
+
+-   🌠 Want to learn **Golang, Typescript**
 
 -   🙋‍♂️ I’m looking to collaborate on [Express Generator](https://github.com/Nebula-2003/generator)
 
